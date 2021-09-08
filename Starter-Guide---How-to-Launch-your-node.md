@@ -29,7 +29,7 @@ If you’re on Mac, you might need to allow apps from unidentified devs, you can
 
 # Configure your node
 
-1. In the .alephium folder create a new text file named `user.conf` and in the file copy/paste and save the following text:
+1. In the .alephium folder create a new text file named `user.conf` and in the file copy/paste and save the following text (Use `TextEdit` on Macos and `NotePad` on Windows)
 
 ```
 alephium.network.network-type = "testnet"
